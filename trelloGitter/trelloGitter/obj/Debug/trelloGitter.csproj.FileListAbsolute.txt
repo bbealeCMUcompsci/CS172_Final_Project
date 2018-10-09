@@ -1,0 +1,7 @@
+C:\School Work\CS172\trelloGitter\trelloGitter\trelloGitter\bin\Debug\trelloGitter.exe.config
+C:\School Work\CS172\trelloGitter\trelloGitter\trelloGitter\bin\Debug\trelloGitter.exe
+C:\School Work\CS172\trelloGitter\trelloGitter\trelloGitter\bin\Debug\trelloGitter.pdb
+C:\School Work\CS172\trelloGitter\trelloGitter\trelloGitter\obj\Debug\trelloGitter.csprojAssemblyReference.cache
+C:\School Work\CS172\trelloGitter\trelloGitter\trelloGitter\obj\Debug\trelloGitter.csproj.CoreCompileInputs.cache
+C:\School Work\CS172\trelloGitter\trelloGitter\trelloGitter\obj\Debug\trelloGitter.exe
+C:\School Work\CS172\trelloGitter\trelloGitter\trelloGitter\obj\Debug\trelloGitter.pdb
